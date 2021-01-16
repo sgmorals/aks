@@ -11,7 +11,7 @@
 * [TestComponent]()
 
 
-### staandards
+### standards
 * [ViewModel]()
 
 
