@@ -8,6 +8,13 @@
 `$ yarn add react-native-aks@https://github.com/sgmorals/react-native-aks.git`
 
 
+## Docs
+### components
+### staandards
+* [ViewModel]()
+
+
+
 ## Usage
 ```javascript
 import React from 'react'
