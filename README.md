@@ -10,6 +10,9 @@
 
 ## Docs
 ### components
+* [TestComponent]()
+
+
 ### staandards
 * [ViewModel]()
 
