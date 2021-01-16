@@ -1,7 +1,7 @@
 
 # react-native-aks
 
-## 爱科森移动端通用组件
+## 武汉爱科森移动端通用组件
 ## Getting started
 
 `$ yarn add react-native-aks@https://github.com/sgmorals/react-native-aks.git`
