@@ -1,12 +1,10 @@
 
 # react-native-aks
 
-## 爱科森移动端通用组件
+## 爱科森移动端通用组件及设计标准
 ## Getting started
 
-
 `$ yarn add react-native-aks@https://github.com/sgmorals/react-native-aks.git`
-
 
 ## Docs
 ### components
